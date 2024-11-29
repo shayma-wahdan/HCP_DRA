@@ -1,1 +1,1 @@
-# test_repo
+# This repository is for the HPC DRA course
