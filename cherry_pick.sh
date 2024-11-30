@@ -6,7 +6,7 @@ cd cherry-pick-demo
 # Create an initial commit on the main branch
 echo "Initial content" > file.txt
 git add file.txt
-git commit -m "Initial commit on main"
+git commit -m "Add file file.txt on main"
 
 # Create a new branch for a feature
 git checkout -b feature
