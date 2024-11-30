@@ -1,3 +1,4 @@
+#!/bin/bash
 # Initialize a new Git repository
 git init cherry-pick-demo
 cd cherry-pick-demo
