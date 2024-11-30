@@ -1,3 +1,4 @@
+#!/bin/bash
 # Initialize a repository
 git init example
 cd example
