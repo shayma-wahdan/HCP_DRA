@@ -1,6 +1,6 @@
 #!/bin/bash
 # Initialize a new Git repository
-git init cherry-pick-demo
+mkdir cherry-pick-demo
 cd cherry-pick-demo
 
 # Create an initial commit on the main branch
