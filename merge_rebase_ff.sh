@@ -1,7 +1,7 @@
 #!/bin/bash
 # Initialize a repository
-git init example
-cd example
+mkdir merge_example
+cd merge_example
 
 # Create an initial commit on main
 echo "Initial content" > file.txt
@@ -9,7 +9,7 @@ git add file.txt
 git commit -m "Initial commit on main"
 
 # Create a feature branch
-git checkout -b feature
+git checkout -b merge_feature
 
 # Make some commits in feature
 echo "Feature content 1" >> file.txt
